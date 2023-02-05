@@ -1,0 +1,28 @@
+body
+{
+    color:blue;
+    background:yellowgreen;
+}
+
+#camera
+{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
+
+.heading
+{
+    width:80%;
+    font-size:22px;
+}
+
+.name_of_faces
+{
+    color:rgb(165, 103, 228);
+}
+
+.font-effect-outline
+{
+    font-family: "Sofia", sans-serif;
+}
